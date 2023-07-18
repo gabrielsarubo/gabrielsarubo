@@ -1,9 +1,9 @@
 ## Hi, I'm Gabriel!
 
-I'm an undergraduate student
-Software Engineer
-Brazilian, based in São Paulo
-Life-long learner
+I'm an undergraduate student<br/>
+Software Engineer<br/>
+Brazilian, based in São Paulo<br/>
+Life-long learner<br/>
 
 ### I am currently learning...
 - ReactJS
@@ -22,5 +22,5 @@ Life-long learner
 
 ---
 
-![](https://raw.githubusercontent.com/gabrielsarubo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/gabrielsarubo/github-stats-transparent/output/generated/languages.svg)
+[![](https://github-readme-stats.vercel.app/api?username=gabrielsarubo&theme=transparent)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsarubo&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent)]()
