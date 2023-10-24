@@ -20,8 +20,3 @@
 🏫 &nbsp; Undergraduate student<br>
 💻 &nbsp; Software Engineer<br>
 🏡 &nbsp; Brazilian, based in São Paulo<br>
-
----
-
-[![](https://github-readme-stats.vercel.app/api?username=gabrielsarubo&theme=dark)]()&nbsp;
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsarubo&size_weight=0.5&count_weight=0.5&layout=donut&theme=dark)]()
